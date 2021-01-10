@@ -1,5 +1,5 @@
 # trumptweets
-This was made to counter President Dickhead's tweets.
+This was made by [design2dev](design2dev.com) to counter President Dickhead's tweets.
 
 **The MANIFESTO**<br>
 We live in a world that is manipulated by Fake News.<br>
@@ -10,7 +10,7 @@ Trump’s Megaphone.. is now yours.<br>
 
 Today, you now have the power to re-write his dribble as you see fit..and counter-act the lies and hate he spins with great wit, satire, and most of all facts.<br><br>
 
-// The Vision
+// The Vision <br>
 Together, our retweets can flood the interwebs.. educating the misguided by creating a POSITIVE anti-distortion field.
 
 It’s up to you. Time to get off the sidelines.. and make a difference.
